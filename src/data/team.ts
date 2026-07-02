@@ -1,0 +1,68 @@
+export const teamMembers = [
+  {
+    id: "1",
+    name: "Alexander Hartmann",
+    role: "Chief Executive Officer",
+    department: "executive" as const,
+    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "2",
+    name: "Sarah Mitchell",
+    role: "Chief Operating Officer",
+    department: "executive" as const,
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "3",
+    name: "Dr. Marcus Weber",
+    role: "Chief Technical Officer",
+    department: "executive" as const,
+    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "4",
+    name: "Elena Rodriguez",
+    role: "VP of Project Management",
+    department: "management" as const,
+    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "5",
+    name: "James Chen",
+    role: "Director of Engineering",
+    department: "engineers" as const,
+    image: "https://images.unsplash.com/photo-1519085360759-af0119f7cbe7?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "6",
+    name: "Thomas Berger",
+    role: "Senior Site Supervisor",
+    department: "supervisors" as const,
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "7",
+    name: "Anna Kowalski",
+    role: "Lead Structural Engineer",
+    department: "engineers" as const,
+    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    linkedin: "#",
+  },
+  {
+    id: "8",
+    name: "Michael O'Brien",
+    role: "Regional Manager",
+    department: "management" as const,
+    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    linkedin: "#",
+  },
+];
+
+export type TeamDepartment = (typeof teamMembers)[number]["department"];

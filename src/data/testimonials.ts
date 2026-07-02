@@ -1,0 +1,38 @@
+export const testimonials = [
+  {
+    id: "1",
+    name: "Robert Klein",
+    role: "CEO, Horizon Development Group",
+    company: "Horizon Development",
+    rating: 5,
+    text: "Meridian Build Group delivered our flagship tower ahead of schedule and under budget. Their attention to detail and commitment to quality is unmatched in the industry.",
+    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+  },
+  {
+    id: "2",
+    name: "Isabelle Laurent",
+    role: "Director, French Transport Authority",
+    company: "FTA",
+    rating: 5,
+    text: "The Central Bridge project was a engineering marvel. Meridian's team handled complex challenges with professionalism and innovative solutions.",
+    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+  },
+  {
+    id: "3",
+    name: "Ahmed Al-Rashid",
+    role: "Managing Director, Emirates Luxury Properties",
+    company: "ELP",
+    rating: 5,
+    text: "Working with Meridian on Marina Residences was exceptional. They understood our vision for luxury and executed flawlessly at every stage.",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+  },
+  {
+    id: "4",
+    name: "Dr. Petra Schmidt",
+    role: "Head of Infrastructure, Bavaria Holdings",
+    company: "BIH",
+    rating: 5,
+    text: "Their industrial park project set new standards for sustainable manufacturing facilities. We continue to partner with Meridian on all major projects.",
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+  },
+];

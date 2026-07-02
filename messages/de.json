@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "siteName": "Meridian Build Group",
+    "tagline": "Die Wahrzeichen von morgen bauen",
+    "description": "Premium-Bau, Ingenieurwesen und Infrastrukturentwicklung. Exzellenz bei gewerblichen, Wohn- und Industrieprojekten weltweit."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "team": "Führungsteam",
+    "careers": "Karriere",
+    "testimonials": "Referenzen",
+    "safety": "Sicherheit & Qualität",
+    "blog": "News & Blog",
+    "contact": "Kontakt",
+    "getConsultation": "Beratung anfragen"
+  },
+  "hero": {
+    "title": "Die Wahrzeichen von morgen bauen",
+    "subtitle": "Exzellenz in Bau, Ingenieurwesen und Infrastrukturentwicklung.",
+    "exploreProjects": "Projekte entdecken",
+    "getConsultation": "Beratung anfragen",
+    "stats": {
+      "years": "Jahre Erfahrung",
+      "projects": "Abgeschlossene Projekte",
+      "employees": "Mitarbeiter",
+      "countries": "Länder"
+    }
+  },
+  "trust": {
+    "title": "Vertrauen führender Unternehmen"
+  },
+  "about": {
+    "title": "Über Meridian Build Group",
+    "subtitle": "Ingenieur-Exzellenz seit 1974",
+    "story": "Seit über fünf Jahrzehnten steht Meridian Build Group an der Spitze globaler Bauinnovation. Von ikonischen Wolkenkratzern bis zu kritischer Infrastruktur verwandeln wir ehrgeizige Visionen in bleibende Wahrzeichen.",
+    "mission": "Mission",
+    "missionText": "Weltklasse-Baulösungen zu liefern, die Erwartungen durch Innovation, Integrität und kompromisslose Qualität übertreffen.",
+    "vision": "Vision",
+    "visionText": "Der vertrauenswürdigste Baupartner weltweit zu sein und Skylines und Gemeinschaften für kommende Generationen zu gestalten.",
+    "values": "Kernwerte",
+    "valuesList": ["Exzellenz", "Sicherheit zuerst", "Innovation", "Integrität", "Nachhaltigkeit"],
+    "pageTitle": "Über uns",
+    "pageSubtitle": "Ein Vermächtnis der Exzellenz in Bau und Ingenieurwesen",
+    "history": "Unsere Geschichte",
+    "historyText": "Gegründet 1974, begann Meridian Build Group als regionaler Auftragnehmer und ist zu einem globalen Kraftpaket mit Operationen in 12 Ländern gewachsen.",
+    "globalReach": "Globale Reichweite",
+    "globalReachText": "Mit Büros in Europa, Nordamerika und dem Nahen Osten bringen wir lokale Expertise mit globalen Standards in jedes Projekt."
+  },
+  "ceo": {
+    "title": "Botschaft unseres CEO",
+    "quote": "Bei Meridian Build Group bauen wir nicht nur Gebäude — wir schaffen die Grundlagen des Fortschritts. Jedes Projekt ist ein Engagement für Exzellenz, Sicherheit und die Gemeinschaften, denen wir dienen.",
+    "name": "Alexander Hartmann",
+    "role": "Chief Executive Officer"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Umfassende Baulösungen für jeden Maßstab",
+    "pageTitle": "Leistungen",
+    "pageSubtitle": "End-to-End Bau- und Ingenieur-Expertise",
+    "learnMore": "Mehr erfahren",
+    "list": {
+      "commercial": { "title": "Gewerbebau", "desc": "Premium-Bürotürme, Einkaufszentren und Mixed-Use-Entwicklungen." },
+      "residential": { "title": "Wohnungsbau", "desc": "Luxusapartments, Wohnanlagen und individuelle Häuser." },
+      "infrastructure": { "title": "Infrastrukturentwicklung", "desc": "Flughäfen, Häfen, Versorgungseinrichtungen und öffentliche Anlagen." },
+      "road": { "title": "Straßenbau", "desc": "Autobahnen, Stadtstraßen und Transportnetze." },
+      "bridge": { "title": "Brückenbau", "desc": "Ikonische Brückenplanung von der Konstruktion bis zur Fertigstellung." },
+      "industrial": { "title": "Industrieprojekte", "desc": "Fabriken, Lagerhallen und Industrieanlagen." },
+      "management": { "title": "Projektmanagement", "desc": "End-to-End-Projektüberwachung für termingerechte Lieferung." },
+      "engineering": { "title": "Ingenieurberatung", "desc": "Tragwerks-, Tief- und TGA-Ingenieurdienstleistungen." },
+      "designBuild": { "title": "Design & Build", "desc": "Integriertes Design und Bau für nahtlose Projektabwicklung." },
+      "renovation": { "title": "Renovierung & Wartung", "desc": "Gebäudesanierung, Modernisierung und Wartungsprogramme." }
+    }
+  },
+  "projects": {
+    "title": "Ausgewählte Projekte",
+    "subtitle": "Wahrzeichen, die Skylines definieren",
+    "pageTitle": "Unsere Projekte",
+    "pageSubtitle": "Entdecken Sie unser preisgekröntes Portfolio",
+    "viewAll": "Alle Projekte",
+    "viewDetails": "Details ansehen",
+    "filters": {
+      "all": "Alle",
+      "commercial": "Gewerbe",
+      "residential": "Wohnen",
+      "industrial": "Industrie",
+      "infrastructure": "Infrastruktur",
+      "government": "Öffentlich"
+    },
+    "detail": {
+      "scope": "Projektumfang",
+      "client": "Auftraggeber",
+      "area": "Baufläche",
+      "budget": "Budget",
+      "completion": "Fertigstellung",
+      "technology": "Eingesetzte Technologie",
+      "timeline": "Projektzeitplan",
+      "gallery": "Projektgalerie",
+      "beforeAfter": "Vorher & Nachher"
+    }
+  },
+  "whyUs": {
+    "title": "Warum wir",
+    "subtitle": "Der Meridian-Unterschied",
+    "reasons": {
+      "quality": { "title": "Qualität", "desc": "ISO-zertifizierte Prozesse und strenge Qualitätskontrolle." },
+      "safety": { "title": "Sicherheit", "desc": "Branchenführende Sicherheitsbilanz ohne Kompromisse." },
+      "innovation": { "title": "Innovation", "desc": "BIM, Drohnenvermessung und smarte Bautechnologien." },
+      "team": { "title": "Expertenteam", "desc": "500+ Fachkräfte inklusive erstklassiger Ingenieure." },
+      "delivery": { "title": "Termingerechte Lieferung", "desc": "98% der Projekte termingerecht oder früher abgeschlossen." },
+      "satisfaction": { "title": "Kundenzufriedenheit", "desc": "96% Kundenbindungsrate in allen Marktsegmenten." }
+    }
+  },
+  "team": {
+    "title": "Führungsteam",
+    "subtitle": "Visionäre, die Exzellenz vorantreiben",
+    "pageTitle": "Führungsteam",
+    "pageSubtitle": "Lernen Sie die Experten hinter unserem Erfolg kennen",
+    "executive": "Vorstandsteam",
+    "management": "Management-Team",
+    "engineers": "Ingenieure",
+    "supervisors": "Bauleiter"
+  },
+  "testimonials": {
+    "title": "Kundenstimmen",
+    "subtitle": "Was unsere Partner sagen",
+    "pageTitle": "Referenzen",
+    "pageSubtitle": "Vertrauen von Kunden weltweit"
+  },
+  "safety": {
+    "title": "Sicherheit & Qualität",
+    "subtitle": "Unser Engagement für Exzellenz",
+    "pageTitle": "Sicherheit & Qualität",
+    "pageSubtitle": "Kein Kompromiss bei Sicherheits- und Qualitätsstandards",
+    "stats": {
+      "accidentFree": "Unfallfreie Tage",
+      "certifications": "Zertifizierungen",
+      "trainingHours": "Schulungsstunden jährlich",
+      "inspections": "Qualitätsinspektionen"
+    },
+    "certifications": "Zertifizierungen & Auszeichnungen",
+    "programs": "Sicherheitsprogramme",
+    "programsList": [
+      "Tägliche Sicherheitsbesprechungen",
+      "Umfassendes PSA-Compliance-Programm",
+      "Notfallübungen",
+      "Verhaltensbasierte Sicherheitsbeobachtungen",
+      "Auftragnehmer-Sicherheitsmanagementsystem"
+    ],
+    "training": "Schulungsprogramme",
+    "trainingList": [
+      "OSHA 30-Stunden-Bausicherheit",
+      "Absturzsicherung und Gerüstbau",
+      "Schwergerätebedienung",
+      "Erste Hilfe und CPR-Zertifizierung",
+      "Gefahrstoffhandhabung"
+    ]
+  },
+  "careers": {
+    "title": "Werden Sie Teil unseres Teams",
+    "subtitle": "Gestalten Sie Ihre Karriere mit uns",
+    "pageTitle": "Karriere",
+    "pageSubtitle": "Gestalten Sie die Zukunft des Bauwesens",
+    "apply": "Jetzt bewerben",
+    "filters": {
+      "all": "Alle Abteilungen",
+      "engineering": "Ingenieurwesen",
+      "management": "Management",
+      "operations": "Betrieb",
+      "design": "Design"
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "resume": "Lebenslauf hochladen",
+      "coverLetter": "Anschreiben",
+      "submit": "Bewerbung absenden"
+    }
+  },
+  "blog": {
+    "title": "News & Einblicke",
+    "subtitle": "Branchenupdates und Projekthighlights",
+    "pageTitle": "News & Blog",
+    "pageSubtitle": "Bleiben Sie informiert mit den neuesten Nachrichten",
+    "readMore": "Weiterlesen",
+    "search": "Artikel suchen...",
+    "categories": {
+      "all": "Alle",
+      "news": "Unternehmensnews",
+      "industry": "Branchenupdates",
+      "engineering": "Ingenieurwesen",
+      "projects": "Projektupdates"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Lassen Sie uns über Ihr nächstes Projekt sprechen",
+    "pageTitle": "Kontakt",
+    "pageSubtitle": "Nehmen Sie Kontakt mit unserem Team auf",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "company": "Firmenname",
+      "service": "Gewünschte Leistung",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden",
+      "selectService": "Leistung auswählen"
+    },
+    "offices": "Unsere Büros",
+    "emergency": "Notfallkontakt",
+    "emergencyText": "24/7-Notfallleitung für aktive Baustellen",
+    "whatsapp": "WhatsApp",
+    "call": "Anrufen",
+    "email": "E-Mail"
+  },
+  "footer": {
+    "description": "Premium-Bau, Ingenieurwesen und Infrastrukturentwicklung weltweit.",
+    "quickLinks": "Schnelllinks",
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "newsletter": "Newsletter",
+    "newsletterText": "Abonnieren Sie Brancheneinblicke und Projektupdates.",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "subscribe": "Abonnieren",
+    "certificates": "Zertifizierungen",
+    "awards": "Auszeichnungen",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "backToHome": "Zur Startseite",
+    "loading": "Laden..."
+  }
+}

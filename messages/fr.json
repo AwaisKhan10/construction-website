@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "siteName": "Meridian Build Group",
+    "tagline": "Construire les monuments de demain",
+    "description": "Construction premium, ingénierie et développement d'infrastructure. Excellence dans les projets commerciaux, résidentiels et industriels mondiaux."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "projects": "Projets",
+    "team": "Direction",
+    "careers": "Carrières",
+    "testimonials": "Témoignages",
+    "safety": "Sécurité & Qualité",
+    "blog": "Actualités",
+    "contact": "Contact",
+    "getConsultation": "Consultation"
+  },
+  "hero": {
+    "title": "Construire les monuments de demain",
+    "subtitle": "Excellence en construction, ingénierie et développement d'infrastructure.",
+    "exploreProjects": "Explorer les projets",
+    "getConsultation": "Consultation",
+    "stats": {
+      "years": "Années d'expérience",
+      "projects": "Projets réalisés",
+      "employees": "Employés",
+      "countries": "Pays"
+    }
+  },
+  "trust": {
+    "title": "La confiance des leaders du secteur"
+  },
+  "about": {
+    "title": "À propos de Meridian Build Group",
+    "subtitle": "Excellence en ingénierie depuis 1974",
+    "story": "Depuis plus de cinq décennies, Meridian Build Group est à l'avant-garde de l'innovation constructionnelle mondiale. Des gratte-ciels emblématiques aux infrastructures critiques, nous transformons les visions ambitieuses en monuments durables.",
+    "mission": "Mission",
+    "missionText": "Fournir des solutions de construction de classe mondiale qui dépassent les attentes grâce à l'innovation, l'intégrité et une qualité sans compromis.",
+    "vision": "Vision",
+    "visionText": "Être le partenaire de construction le plus fiable au monde, façonnant les skylines et les communautés pour les générations futures.",
+    "values": "Valeurs fondamentales",
+    "valuesList": ["Excellence", "Sécurité d'abord", "Innovation", "Intégrité", "Durabilité"],
+    "pageTitle": "À propos",
+    "pageSubtitle": "Un héritage d'excellence en construction et ingénierie",
+    "history": "Notre histoire",
+    "historyText": "Fondé en 1974, Meridian Build Group a commencé comme entrepreneur régional et est devenu une puissance mondiale avec des opérations dans 12 pays.",
+    "globalReach": "Portée mondiale",
+    "globalReachText": "Avec des bureaux en Europe, Amérique du Nord et au Moyen-Orient, nous apportons une expertise locale avec des standards mondiaux."
+  },
+  "ceo": {
+    "title": "Message de notre PDG",
+    "quote": "Chez Meridian Build Group, nous ne construisons pas seulement des bâtiments — nous bâtissons les fondations du progrès. Chaque projet est un engagement envers l'excellence, la sécurité et les communautés que nous servons.",
+    "name": "Alexander Hartmann",
+    "role": "Directeur Général"
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Solutions de construction complètes à toute échelle",
+    "pageTitle": "Services",
+    "pageSubtitle": "Expertise complète en construction et ingénierie",
+    "learnMore": "En savoir plus",
+    "list": {
+      "commercial": { "title": "Construction commerciale", "desc": "Tours de bureaux premium, complexes commerciaux et développements mixtes." },
+      "residential": { "title": "Construction résidentielle", "desc": "Appartements de luxe, communautés résidentielles et maisons sur mesure." },
+      "infrastructure": { "title": "Développement d'infrastructure", "desc": "Aéroports, ports, services publics et installations publiques." },
+      "road": { "title": "Construction routière", "desc": "Autoroutes, routes urbaines et réseaux de transport." },
+      "bridge": { "title": "Construction de ponts", "desc": "Ingénierie de ponts emblématiques de la conception à l'achèvement." },
+      "industrial": { "title": "Projets industriels", "desc": "Usines, entrepôts et installations industrielles." },
+      "management": { "title": "Gestion de projet", "desc": "Supervision de projet de bout en bout pour une livraison dans les délais." },
+      "engineering": { "title": "Conseil en ingénierie", "desc": "Services d'ingénierie structurelle, civile et CVC." },
+      "designBuild": { "title": "Conception & Construction", "desc": "Design et construction intégrés pour une livraison fluide." },
+      "renovation": { "title": "Rénovation & Maintenance", "desc": "Restauration, modernisation et programmes de maintenance." }
+    }
+  },
+  "projects": {
+    "title": "Projets phares",
+    "subtitle": "Monuments qui définissent les skylines",
+    "pageTitle": "Nos projets",
+    "pageSubtitle": "Explorez notre portfolio primé",
+    "viewAll": "Tous les projets",
+    "viewDetails": "Voir les détails",
+    "filters": {
+      "all": "Tous",
+      "commercial": "Commercial",
+      "residential": "Résidentiel",
+      "industrial": "Industriel",
+      "infrastructure": "Infrastructure",
+      "government": "Gouvernement"
+    },
+    "detail": {
+      "scope": "Portée du projet",
+      "client": "Client",
+      "area": "Surface de construction",
+      "budget": "Budget",
+      "completion": "Date d'achèvement",
+      "technology": "Technologie utilisée",
+      "timeline": "Calendrier du projet",
+      "gallery": "Galerie du projet",
+      "beforeAfter": "Avant & Après"
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi nous choisir",
+    "subtitle": "La différence Meridian",
+    "reasons": {
+      "quality": { "title": "Qualité", "desc": "Processus certifiés ISO et contrôle qualité rigoureux." },
+      "safety": { "title": "Sécurité", "desc": "Bilan de sécurité leader avec des protocoles sans compromis." },
+      "innovation": { "title": "Innovation", "desc": "BIM, levés par drone et technologies de construction intelligentes." },
+      "team": { "title": "Équipe experte", "desc": "500+ professionnels qualifiés incluant des ingénieurs de classe mondiale." },
+      "delivery": { "title": "Livraison à temps", "desc": "98% des projets terminés dans les délais ou en avance." },
+      "satisfaction": { "title": "Satisfaction client", "desc": "96% de fidélisation client dans tous les segments." }
+    }
+  },
+  "team": {
+    "title": "Équipe dirigeante",
+    "subtitle": "Des visionnaires qui propulsent l'excellence",
+    "pageTitle": "Équipe dirigeante",
+    "pageSubtitle": "Rencontrez les experts derrière notre succès",
+    "executive": "Équipe exécutive",
+    "management": "Équipe de direction",
+    "engineers": "Ingénieurs",
+    "supervisors": "Superviseurs de site"
+  },
+  "testimonials": {
+    "title": "Témoignages clients",
+    "subtitle": "Ce que disent nos partenaires",
+    "pageTitle": "Témoignages",
+    "pageSubtitle": "La confiance de clients du monde entier"
+  },
+  "safety": {
+    "title": "Sécurité & Qualité",
+    "subtitle": "Notre engagement envers l'excellence",
+    "pageTitle": "Sécurité & Qualité",
+    "pageSubtitle": "Aucun compromis sur les normes de sécurité et qualité",
+    "stats": {
+      "accidentFree": "Jours sans accident",
+      "certifications": "Certifications",
+      "trainingHours": "Heures de formation annuelles",
+      "inspections": "Inspections qualité"
+    },
+    "certifications": "Certifications & Récompenses",
+    "programs": "Programmes de sécurité",
+    "programsList": [
+      "Briefings de sécurité quotidiens",
+      "Programme complet de conformité EPI",
+      "Exercices de réponse d'urgence",
+      "Observations de sécurité comportementales",
+      "Système de gestion de la sécurité des entrepreneurs"
+    ],
+    "training": "Programmes de formation",
+    "trainingList": [
+      "Sécurité construction OSHA 30 heures",
+      "Protection contre les chutes et échafaudage",
+      "Conduite d'engins lourds",
+      "Premiers secours et certification RCP",
+      "Manipulation des matières dangereuses"
+    ]
+  },
+  "careers": {
+    "title": "Rejoignez notre équipe",
+    "subtitle": "Construisez votre carrière avec nous",
+    "pageTitle": "Carrières",
+    "pageSubtitle": "Façonnez l'avenir de la construction",
+    "apply": "Postuler",
+    "filters": {
+      "all": "Tous les départements",
+      "engineering": "Ingénierie",
+      "management": "Management",
+      "operations": "Opérations",
+      "design": "Design"
+    },
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "resume": "Télécharger CV",
+      "coverLetter": "Lettre de motivation",
+      "submit": "Soumettre la candidature"
+    }
+  },
+  "blog": {
+    "title": "Actualités & Insights",
+    "subtitle": "Mises à jour sectorielles et projets phares",
+    "pageTitle": "Actualités & Blog",
+    "pageSubtitle": "Restez informé des dernières nouvelles",
+    "readMore": "Lire la suite",
+    "search": "Rechercher des articles...",
+    "categories": {
+      "all": "Tous",
+      "news": "Actualités entreprise",
+      "industry": "Mises à jour sectorielles",
+      "engineering": "Ingénierie",
+      "projects": "Mises à jour projets"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Discutons de votre prochain projet",
+    "pageTitle": "Contact",
+    "pageSubtitle": "Contactez notre équipe",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "company": "Nom de l'entreprise",
+      "service": "Service requis",
+      "message": "Votre message",
+      "submit": "Envoyer le message",
+      "selectService": "Sélectionner un service"
+    },
+    "offices": "Nos bureaux",
+    "emergency": "Contact d'urgence",
+    "emergencyText": "Ligne d'urgence 24/7 pour les chantiers actifs",
+    "whatsapp": "WhatsApp",
+    "call": "Appeler",
+    "email": "E-mail"
+  },
+  "footer": {
+    "description": "Construction premium, ingénierie et développement d'infrastructure mondiaux.",
+    "quickLinks": "Liens rapides",
+    "services": "Services",
+    "projects": "Projets",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterText": "Abonnez-vous aux insights sectoriels et mises à jour projets.",
+    "emailPlaceholder": "Votre adresse e-mail",
+    "subscribe": "S'abonner",
+    "certificates": "Certifications",
+    "awards": "Récompenses",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "backToHome": "Retour à l'accueil",
+    "loading": "Chargement..."
+  }
+}
